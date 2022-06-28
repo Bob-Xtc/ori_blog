@@ -1,8 +1,5 @@
-# ori_blog
-一个基于Vue3和Spring boot的前后端分离个人博客项目
+# front
 
-
-# 对于Vue3前端部分
 ## Project setup
 ```
 npm install
